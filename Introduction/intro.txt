@@ -1,0 +1,20 @@
+JavaScript is a popular programming language that has a wide range of applications.
+
+
+JavaScript was previously used mainly for making webpages interactive
+such as form validation, animation, etc.
+Nowadays,  JavaScript is also used in many other areas such as 
+server-side development(Web Development), mobile app development (Mobile Apps) and so on.
+
+Because of its wide range of applications, you can run JavaScript in several ways:
+
+
+// Backend ==> NodeJS ==> JS
+// Front
+// Backend ==> NodeJS ==> JS
+// Frontend ==> DOM ==> JS
+// Database ==> MongoDB ==> JS
+// Mobile Developement ==> React-Native ==> JS
+// Desktop App ==> React-FrameWorks ==> JS
+
+*/
